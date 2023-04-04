@@ -1,9 +1,16 @@
 using AwesomeDevEvents.API.Persistence;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.OpenApi.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddSingleton<DevEventsDbContext>();
+var connectionString = builder.Configuration.GetConnectionString("DevEventsSc");
+builder.Services.AddDbContext<DevEventsDbContext>(options => 
+    options.UseMySql(connectionString, 
+    ServerVersion.AutoDetect(connectionString)));
+
+//builder.Services.AddDbContext<DevEventsDbContext>(o => o.UseInMemoryDatabase("DevEventsDb"));
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

@@ -31,3 +31,16 @@ C:\Users\thiag\OneDrive\Documentos\ProjetosGit\CRUDASP.NETCore7\AwesomeDevEvents
 C:\Users\thiag\OneDrive\Documentos\ProjetosGit\CRUDASP.NETCore7\AwesomeDevEvents\AwesomeDevEvents.API\obj\Debug\net7.0\AwesomeDevEvents.API.pdb
 C:\Users\thiag\OneDrive\Documentos\ProjetosGit\CRUDASP.NETCore7\AwesomeDevEvents\AwesomeDevEvents.API\obj\Debug\net7.0\AwesomeDevEvents.API.genruntimeconfig.cache
 C:\Users\thiag\OneDrive\Documentos\ProjetosGit\CRUDASP.NETCore7\AwesomeDevEvents\AwesomeDevEvents.API\obj\Debug\net7.0\ref\AwesomeDevEvents.API.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\CRUDASP.NETCore7\AwesomeDevEvents\AwesomeDevEvents.API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\CRUDASP.NETCore7\AwesomeDevEvents\AwesomeDevEvents.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\CRUDASP.NETCore7\AwesomeDevEvents\AwesomeDevEvents.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\CRUDASP.NETCore7\AwesomeDevEvents\AwesomeDevEvents.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\CRUDASP.NETCore7\AwesomeDevEvents\AwesomeDevEvents.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\CRUDASP.NETCore7\AwesomeDevEvents\AwesomeDevEvents.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\CRUDASP.NETCore7\AwesomeDevEvents\AwesomeDevEvents.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\CRUDASP.NETCore7\AwesomeDevEvents\AwesomeDevEvents.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\CRUDASP.NETCore7\AwesomeDevEvents\AwesomeDevEvents.API\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\CRUDASP.NETCore7\AwesomeDevEvents\AwesomeDevEvents.API\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\CRUDASP.NETCore7\AwesomeDevEvents\AwesomeDevEvents.API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\CRUDASP.NETCore7\AwesomeDevEvents\AwesomeDevEvents.API\bin\Debug\net7.0\AwesomeDevEvents.API.xml
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\CRUDASP.NETCore7\AwesomeDevEvents\AwesomeDevEvents.API\obj\Debug\net7.0\AwesomeDevEvents.API.xml
